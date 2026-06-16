@@ -9,6 +9,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rohithammineni45/APS/tree/master/0020-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rohithammineni45/APS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0946-validate-stack-sequences](https://github.com/rohithammineni45/APS/tree/master/0946-validate-stack-sequences) |
 ## Simulation
@@ -18,6 +19,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rohithammineni45/APS/tree/master/0020-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/rohithammineni45/APS/tree/master/0257-binary-tree-paths) |
 ## Backtracking
 |  |
