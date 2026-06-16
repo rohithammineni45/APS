@@ -70,6 +70,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rohithammineni45/APS/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/rohithammineni45/APS/tree/master/0007-reverse-integer) |
 ## Recursion
 |  |
 | ------- |
